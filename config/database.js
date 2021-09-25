@@ -1,10 +1,4 @@
 
-  //extra: {
-    //ssl: {
-     // rejectUnauthorized: false
-   // }
- 
-  
 module.exports = ({ env }) => ({
   defaultConnection: 'default',
   connections: {
